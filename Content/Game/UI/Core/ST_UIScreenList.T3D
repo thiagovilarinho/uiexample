@@ -1,0 +1,10 @@
+Begin Object Class=/Script/Engine.UserDefinedStruct Name="ST_UIScreenList" ExportPath=/Script/Engine.UserDefinedStruct'"/Game/UI/Core/ST_UIScreenList.ST_UIScreenList"'
+   Begin Object Class=/Script/UnrealEd.UserDefinedStructEditorData Name="UserDefinedStructEditorData_0" ExportPath=/Script/UnrealEd.UserDefinedStructEditorData'"/Game/UI/Core/ST_UIScreenList.ST_UIScreenList:UserDefinedStructEditorData_0"'
+   End Object
+   Begin Object Name="UserDefinedStructEditorData_0" ExportPath=/Script/UnrealEd.UserDefinedStructEditorData'"/Game/UI/Core/ST_UIScreenList.ST_UIScreenList:UserDefinedStructEditorData_0"'
+      UniqueNameId=5
+      VariablesDescriptions(0)=(VarName="Screen_4_F377A7304F474C16E1B38681C4546233",VarGuid=F377A7304F474C16E1B38681C4546233,FriendlyName="Screen",DefaultValue="()",Category="string",PinValueType=(TerminalCategory="class",TerminalSubCategoryObject=/Script/CoreUObject.Class'"/Script/UMG.UserWidget"'),ContainerType=Map,CurrentDefaultValue="()")
+   End Object
+   EditorData=/Script/UnrealEd.UserDefinedStructEditorData'"UserDefinedStructEditorData_0"'
+   Guid=DD7C408B4790A221F8EA71B267EA758E
+End Object

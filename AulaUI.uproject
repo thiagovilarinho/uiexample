@@ -3,6 +3,8 @@
 	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
+	"Modules": []
+	,
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
